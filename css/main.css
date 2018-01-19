@@ -745,6 +745,13 @@ h1.navbar-brand {
     text-align: center;
 }
 
+element.style {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
 .project-wrapper li {
     display: inline-block;
 }
@@ -755,6 +762,7 @@ h1.navbar-brand {
     overflow: hidden;
     position: relative;
     width: 32%;
+	padding: 20px 20px 20px 20px;
 }
 
 figcaption.mask {
